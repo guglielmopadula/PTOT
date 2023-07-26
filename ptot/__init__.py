@@ -5,4 +5,4 @@ __all__ = [
     "ptot",
 ]
 
-import .distributions
+from .ptot import Normal
